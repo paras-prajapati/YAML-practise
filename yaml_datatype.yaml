@@ -1,0 +1,32 @@
+---                       
+age: 12345  
+octalexample: 012345    
+hexaexample: 0x12d4  
+
+height: 180.0  
+exp: 12.3015e+05  
+
+boolenval1: True  
+booleanval2: False  
+fan: On  
+light: Off  
+
+str1: null  
+str2: ~  
+
+str: >  
+       this is a multi-line string it  
+       spans more than one  
+       line  
+       
+student1: "john"  
+fatherName: "William"    
+motherName: "Marry"  
+hobbies:   
+  - music  
+  - reading  
+  - dancing  
+subjectDetails:   
+   subject1: 70  
+   subject2: 100   
+  

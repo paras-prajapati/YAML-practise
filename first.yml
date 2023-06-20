@@ -1,0 +1,28 @@
+name : paras   # key value pair
+age : 26
+server :       # objects
+  name : "goramghat"
+  capacity : 50GB
+social_media :    # list
+  - Instawithparas
+  - metawithparas
+  - youtubewithparas
+testing : |      # multilne list
+  this is
+  multiline
+  string
+list_of_server :   # list of object
+  - server_1 :
+    name : "ec2"
+    volume : 8gb
+  - server_2 :
+    name : "forget"
+    volume : 16gb
+"apple" : "I am a fruit"
+#list
+fruits :
+  - apple
+  - mango
+  - banana
+  - Apple
+cities : [new-delhi,mumbai]

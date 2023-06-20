@@ -1,0 +1,25 @@
+#Block styles
+
+host: phl-42  
+datacenter:   
+  location: canada  
+  cab: 15  
+animals:  
+  - dog  
+  - cat  
+  - mouse  
+  
+#Flow styles
+
+host: phl-42  
+datacenter: {location: canada , cab: 15}  
+animals: [dog , cat , mouse]  
+
+country : india
+detail :
+  state : gujarat
+  capital : gandhinagar
+food :
+  gujarat : fafda
+  rajasthan : khichdi
+  surat : khaman
